@@ -13,6 +13,7 @@ class Team
   end
 
   def standings(points)
+    #I haven't progressed with this one as was struggling with points
   end
 
   def find_player(name)
